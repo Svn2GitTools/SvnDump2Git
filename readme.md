@@ -1,6 +1,7 @@
 # SvnDump2Git  Convert Your SVN Dump Files to Git Repositories
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub release](https://img.shields.io/github/v/release/Svn2GitTools/SvnDump2Git)](https://github.com/Svn2GitTools/SvnDump2Git/releases/latest)
 
 **SvnDump2Git** is a command-line tool written in C# that converts Subversion (SVN) dump files into Git repositories. It leverages the [SvnDumpParser](https://github.com/your-svn-dump-parser-repo-link) library to parse SVN dump files and [GitImporter](https://github.com/your-git-importer-repo-link) (or your Git interaction library) to create a Git repository.
 
